@@ -38,13 +38,14 @@ The project includes interactive UI elements, dynamic data handling, and a teach
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/prathamesh2503/utkarsh-tuition.git
+git clone https://github.com/prathamesh2503/utkarsh-tuition-version-one.git
 ```
 
 2. Navigate into the project folder:
-   cd project-name
 
-3. Open index.html in your browser.
+   cd utkarsh-tuition-version-one
+
+4. Open index.html in your browser.
 
 ## 📖 Usage
 
